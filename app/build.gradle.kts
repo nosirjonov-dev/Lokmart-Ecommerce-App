@@ -66,4 +66,6 @@ dependencies {
 
 //    ViewPager2
     implementation ("com.github.zhpanvip:viewpagerindicator:1.2.3")
+
+    implementation ("com.github.bumptech.glide:glide:5.0.5")
 }
