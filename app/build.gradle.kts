@@ -63,4 +63,7 @@ dependencies {
 
     implementation("com.google.dagger:hilt-android:2.57.1")
     kapt("com.google.dagger:hilt-android-compiler:2.57.1")
+
+//    ViewPager2
+    implementation ("com.github.zhpanvip:viewpagerindicator:1.2.3")
 }
