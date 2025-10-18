@@ -26,7 +26,7 @@ class SignInViewModel @Inject constructor(private val authRepository: AuthReposi
             return@launch
         }catch (e:Exception){
             when {
-                e is HttpException && e.code() = 404 -> events.postValue(Event.InvalidCredentials)
+                e is HttpException && e.code() == 404 -> events.postValue(Event.InvalidCredentials)
                 e is IOException -> events.postValue(Event.ConnectionError)
                 else -> events.postValue(Event.Error)
             }

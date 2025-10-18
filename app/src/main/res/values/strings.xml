@@ -14,7 +14,7 @@
     <string name="invalid_credentials">
         Invalid Credentials
     </string>
-    <string name="fragment_onboarding_text">
+    <string name="fragment_onboarding_next">
         Next
     </string>
     <string name="onboarding_title_0">
@@ -28,5 +28,8 @@
     </string>
     <string name="onboarding_description_1">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+    </string>
+    <string name="fragment_onboarding_get_started">
+        Get started
     </string>
 </resources>

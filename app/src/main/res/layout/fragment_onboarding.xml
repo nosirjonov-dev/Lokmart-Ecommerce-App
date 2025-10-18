@@ -33,7 +33,7 @@
        android:layout_marginHorizontal="32dp"
        app:layout_constraintBottom_toBottomOf="parent"
        android:layout_marginBottom="10dp"
-       android:text="@string/fragment_onboarding_text"
+       android:text="@string/fragment_onboarding_next"
        android:background="@drawable/button_background"
        android:backgroundTint="@null"
        />
