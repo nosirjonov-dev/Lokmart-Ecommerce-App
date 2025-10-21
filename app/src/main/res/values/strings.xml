@@ -32,4 +32,7 @@
     <string name="fragment_onboarding_get_started">
         Get started
     </string>
+    <string name="fragment_sign_in_no_acc">Don\'t have an account?</string>
+    <string name="fragment_sign_in_sign_up">Sign Up</string>
+    <string name="fragment_sign_in_forgot_password">Forgot password?</string>
 </resources>
