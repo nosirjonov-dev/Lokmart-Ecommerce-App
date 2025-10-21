@@ -17,6 +17,9 @@
     <string name="fragment_onboarding_next">
         Next
     </string>
+    <string name="fragment_sign_in_button">
+        SIGN IN
+    </string>
     <string name="onboarding_title_0">
         Welcome to LokMart!\\n Grocery Applications
     </string>
@@ -32,7 +35,18 @@
     <string name="fragment_onboarding_get_started">
         Get started
     </string>
-    <string name="fragment_sign_in_no_acc">Don\'t have an account?</string>
-    <string name="fragment_sign_in_sign_up">Sign Up</string>
-    <string name="fragment_sign_in_forgot_password">Forgot password?</string>
+    <string
+        name="fragment_sign_in_no_acc">
+        Don\'t have an account?
+    </string>
+    <string
+        name="fragment_sign_in_sign_up">
+        Sign Up
+    </string>
+    <string
+        name="fragment_sign_in_forgot_password"><u>
+        Forgot password?
+    </u></string>
+    <string name="fragment_sign_in_password">Password</string>
+    <string name="fragment_sign_in_username">Username</string>
 </resources>
