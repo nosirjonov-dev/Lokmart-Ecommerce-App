@@ -49,4 +49,6 @@
     </u></string>
     <string name="fragment_sign_in_password">Password</string>
     <string name="fragment_sign_in_username">Username</string>
+    <string name="fragment_sign_in_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</string>
+    <string name="fragment_sign_in_title">Welcome back</string>
 </resources>
