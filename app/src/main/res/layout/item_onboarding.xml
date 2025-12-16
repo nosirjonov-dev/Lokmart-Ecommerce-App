@@ -48,7 +48,7 @@
         android:layout_marginHorizontal="64dp"
         android:textAlignment="center"
         android:textStyle=""
-        tools:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore"
+        tools:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor"
         />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
